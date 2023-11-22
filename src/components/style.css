@@ -1,0 +1,37 @@
+html {
+    scroll-behavior: smooth;
+  }
+.napolean{
+    background-image: url("../images/nap.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    z-index: -2;
+}
+.bottom-boi{
+}
+.bottom-boi a{
+    margin-top: 20px;
+}
+.meet{
+    display: flex;
+}
+.show{
+    display: flex;
+}
+.hide{
+    display: none;
+}
+.upper{
+    margin-top: 20px;
+}
+/* .last-is{
+    margin-bottom: 20px;
+} */
+.one{
+    background-image: url("../images/iphone.jpg");  
+}
+.two{
+    background-image: url("../images/mac.jpg");  
+}
